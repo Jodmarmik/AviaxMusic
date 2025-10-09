@@ -95,6 +95,9 @@ API_KEY=your-api-key-here
 
 ---
 
+
+[![DEPLOY TO RENDER](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Jodmarmik/AviaxMusic)
+
 ## 🚀 Deploy on Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Jodmarmik/AviaxMusic)
 
