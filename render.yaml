@@ -1,7 +1,7 @@
 services:
   - type: web
     plan: free
-    name: PRIYANKABOT
+    name: AviaxMusic
     env: python
     buildCommand: 
     startCommand: "python3 -m AviaxMusic"
