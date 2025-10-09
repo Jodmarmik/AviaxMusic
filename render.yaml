@@ -8,7 +8,7 @@ services:
     repo: https://github.com/Jodmarmik/AviaxMusic
 
 
-    branch: master
+    branch: main
     envVars:
       - key: BOT_TOKEN
         sync: false
